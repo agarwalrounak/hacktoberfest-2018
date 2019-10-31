@@ -472,6 +472,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am currently spending most of my free time learning.
 - [![twitter-alt][twitter-img]](https://twitter.com/hinkson_andrew)
   [![github-alt][github-img]](https://github.com/hinksonAndrew)
+  
+  ### urvish jain
+- First year Computer Science student
+- [![github-alt][github-img]](https://github.com/Ur-wish11)
 
 ### Anna Sebova
 
